@@ -1,8 +1,8 @@
-# Olá! 👋 Eu sou Daniel Batista
+ Olá! 👋 Eu sou Daniel Batista
 
 Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções inteligentes.
 
-## 🚀 Tecnologias que uso## 🏆 Projetos em destaque
+ Tecnologias que uso 
 
 <!-- Repita para os outros projetos, mudando os links e imagens -->
 
