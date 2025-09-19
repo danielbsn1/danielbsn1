@@ -4,43 +4,23 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 
 ## 🚀 Tecnologias que uso## 🏆 Projetos em destaque
 
-<a href="https://github.com/danielbsn1/site_barbeiaria" target="_blank">
-  <img src="https://share.google/images/GuiKI37OTs4Cus6Sh" alt="Site Barbeiraria" width="200"/>
-</a>.
-
-<a href="https://github.com/danielbsn1/api_restaurante" target="_blank">
-  <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80" alt="API Restaurante" width="200"/>
-</a>
-
-
 <!-- Repita para os outros projetos, mudando os links e imagens -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-
 ## 🏆 Projetos em destaque
 
-### Site Barbeiraria  
-![Site Barbeiraria](https://share.google/images/GuiKI37OTs4Cus6Sh)  
-Plataforma web para agendamento e divulgação de serviços de barbearia.
+| Projeto                        | Imagem                                                                 | Descrição                                                                 |
+|---------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [Site Barbeiraria](https://github.com/danielbsn1/site_barbeiaria) | <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=200&q=80" width="120"/> | Plataforma web para agendamento e divulgação de serviços de barbearia.    |
+| [Análise de Dados com IA](https://github.com/danielbsn1/analise_ia)| <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=200&q=80" width="120"/> | Inteligência artificial para análise avançada de dados comerciais.         |
+| [Cardápio Formaggini Trufas](https://github.com/danielbsn1/cardapio_formaggini) | <img src="https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=200&q=80" width="120"/> | Cardápio digital interativo para Formaggini Trufas.                       |
+| [Projeto Automação](https://github.com/danielbsn1/projeto_automacao) | <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=200&q=80" width="120"/> | Sistema de automação para processos empresariais.                         |
+| [Prototipos Análise Financeira](https://github.com/danielbsn1/prototipos_financeira) | <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=200&q=80" width="120"/> | Ferramentas para análise e visualização de dados financeiros.              |
 
-### Análise de Dados com IA  
-![Análise de Dados com IA](https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg)  
-Projeto de inteligência artificial para análise avançada de dados comerciais.
 
-### Cardápio Formaggini Trufas  
-![Cardápio Formaggini Trufas](https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80)  
-Cardápio digital interativo para a marca Formaggini Trufas.
-
-### Projeto Automação  
-![Projeto Automação](https://azuton.com/wp-content/uploads/2022/09/automacao-de-markerting.jpg)  
-Sistema de automação para processos empresariais.
-
-### Análise Financeira  
-![Prototipos Análise Financeira](https://novo.saovicentecontabilidade.com.br/wp-content/uploads/2014/05/analises_financeiras_balanco_consultoria_empresarial_sao_vicente_contabilidade.jpg)  
-Ferramentas para análise e visualização de dados financeiros.
 
 ## 📫 Contato
 
