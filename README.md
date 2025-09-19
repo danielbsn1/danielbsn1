@@ -12,19 +12,11 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 ## 🏆 Projetos em destaque
 
 ### Site Barbeiraria  
-![Site Barbeiraria](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80)  
+![Site Barbeiraria](https://share.google/images/GuiKI37OTs4Cus6Sh)  
 Plataforma web para agendamento e divulgação de serviços de barbearia.
 
-### API Restaurante  
-![API Restaurante](https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80)  
-API REST para gerenciamento de pedidos, cardápios e clientes em restaurantes.
-
-### Sistema para Lojas  
-![Sistema para Lojas](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80)  
-Solução completa para gestão de lojas, incluindo controle de estoque e vendas.
-
 ### Análise de Dados com IA  
-![Análise de Dados com IA](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80)  
+![Análise de Dados com IA](https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg)  
 Projeto de inteligência artificial para análise avançada de dados comerciais.
 
 ### Cardápio Formaggini Trufas  
@@ -32,11 +24,11 @@ Projeto de inteligência artificial para análise avançada de dados comerciais.
 Cardápio digital interativo para a marca Formaggini Trufas.
 
 ### Projeto Automação  
-![Projeto Automação](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80)  
+![Projeto Automação](https://azuton.com/wp-content/uploads/2022/09/automacao-de-markerting.jpg)  
 Sistema de automação para processos empresariais.
 
-### Prototipos Análise Financeira  
-![Prototipos Análise Financeira](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=400&q=80)  
+### Análise Financeira  
+![Prototipos Análise Financeira](https://novo.saovicentecontabilidade.com.br/wp-content/uploads/2014/05/analises_financeiras_balanco_consultoria_empresarial_sao_vicente_contabilidade.jpg)  
 Ferramentas para análise e visualização de dados financeiros.
 
 ## 📫 Contato
