@@ -2,7 +2,21 @@
 
 Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções inteligentes.
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que uso## 🏆 Projetos em destaque
+
+<a href="https://github.com/danielbsn1/site_barbeiaria" target="_blank">
+  <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80" alt="Site Barbeiraria" width="200"/>
+</a>
+**Site Barbeiraria**  
+Plataforma web para agendamento e divulgação de serviços de barbearia.
+
+<a href="https://github.com/danielbsn1/api_restaurante" target="_blank">
+  <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80" alt="API Restaurante" width="200"/>
+</a>
+**API Restaurante**  
+API REST para gerenciamento de pedidos, cardápios e clientes em restaurantes.
+
+<!-- Repita para os outros projetos, mudando os links e imagens -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
