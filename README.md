@@ -41,8 +41,8 @@ Ferramentas para análise e visualização de dados financeiros.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Email](mailto:seu@email.com)
+- [LinkedIn](www.linkedin.com/in/danielbatista-dev)
+
 
 ---
 
