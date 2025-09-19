@@ -5,7 +5,7 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 ## 🚀 Tecnologias que uso## 🏆 Projetos em destaque
 
 <a href="https://github.com/danielbsn1/site_barbeiaria" target="_blank">
-  <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80" alt="Site Barbeiraria" width="200"/>
+  <img src="https://share.google/images/GuiKI37OTs4Cus6Sh" alt="Site Barbeiraria" width="200"/>
 </a>.
 
 <a href="https://github.com/danielbsn1/api_restaurante" target="_blank">
