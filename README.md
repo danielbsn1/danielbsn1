@@ -14,7 +14,7 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 
 ## 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/danielbatista-dev)
+- [LinkedIn](www.linkedin.in/danielbatista-dev)
 
 
 ---
