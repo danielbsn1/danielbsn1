@@ -29,8 +29,5 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbsn1&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielbsn1&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-!
 
 
