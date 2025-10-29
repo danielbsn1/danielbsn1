@@ -21,3 +21,16 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções 
 
 *Veja meus projetos abaixo e fique à vontade para entrar em contato!*
 
+
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielbsn1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbsn1&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielbsn1&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+!
+
+
