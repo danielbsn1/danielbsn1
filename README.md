@@ -9,9 +9,9 @@
 
 ---
 
-# 🚀 Tecnologias
+#  Tecnologias
 
-### 💻 Linguagens & Frameworks
+###  Linguagens & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,html,css" />
@@ -31,7 +31,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
