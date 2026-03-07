@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou Daniel Batista
+#  Olá, eu sou Daniel Batista
 
-💻 Desenvolvedor Full Stack  
-🎓 Estudante de Engenharia de Software e ADS  
-☁️ AWS Cloud Practitioner  
-🚀 Foco em Backend, APIs e Cloud
+  Desenvolvedor Full Stack  
+  Estudante de Engenharia de Software e ADS  
+ AWS Cloud Practitioner  
+ Foco em Backend, APIs e Cloud
 
 <img src="https://komarev.com/ghpvc/?username=Danielbsn1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 🔥 Streak
+#  Streak
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-# 📫 Contato
+#  Contato
 
 <a href="https://linkedin.com/in/danielbatista-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
