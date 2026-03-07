@@ -18,7 +18,7 @@ Desenvolvedor Fullstack com foco em desenvolvimento Backend e APIs
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-💾 Banco de Dados & Cloud
+ Banco de Dados & Cloud
 
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -41,17 +41,12 @@ Desenvolvedor Fullstack com foco em desenvolvimento Backend e APIs
 
 
 
-📊 GitHub Stats
-
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielbsn1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbsn1&layout=compact&langs_count=7&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=Danielbsn1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbsn1&layout=compact&langs_count=7&theme=dark&hide_border=true" />
 </div> <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielbsn1&theme=dracula" />
-</div> <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danielbsn1&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielbsn1&theme=dark&hide_border=true" />
 </div>
-
 
 
 
