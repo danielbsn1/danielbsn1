@@ -36,13 +36,7 @@ Desenvolvedor Fullstack com foco em desenvolvimento Backend e APIs
 
 
 
-📂 Projetos em Destaque
 
-🔹 Sistema de Gerenciamento de Equipamentos
-Sistema web para controle de ativos de TI, permitindo cadastro de equipamentos, associação com funcionários e setores e histórico de movimentações.
-
-🔹 Sistema de Agendamento para Barbearia
-Aplicação web para agendamento de horários e controle de pagamentos utilizando Flask e SQLAlchemy.
 
 
 
