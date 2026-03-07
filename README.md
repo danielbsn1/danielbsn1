@@ -1,4 +1,4 @@
-Olá, eu sou Daniel Batista 👋
+Olá, eu sou Daniel Batista 
 
 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas
 Desenvolvedor Fullstack com foco em desenvolvimento Backend e APIs
@@ -6,9 +6,9 @@ Desenvolvedor Fullstack com foco em desenvolvimento Backend e APIs
 
 
 
-🛠 Tecnologias & Ferramentas
+ Tecnologias & Ferramentas
 
-🚀 Linguagens & Frameworks
+ Linguagens & Frameworks
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
