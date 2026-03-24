@@ -17,13 +17,13 @@
 <img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,html,css" />
 </p>
 
-### 🗄 Banco de Dados
+###  Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### ⚙ DevOps & Cloud
+###  DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
