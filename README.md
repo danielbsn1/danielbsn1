@@ -14,7 +14,7 @@ Foco em Backend, APIs e Cloud
 ###  Linguagens & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,ts,html,css" />
 </p>
 
 ###  Banco de Dados
