@@ -1,7 +1,8 @@
 #  Olá, eu sou Daniel Batista
 
-Desenvolvedor Backend
+Desenvolvedor Full Stack
 Estudante de Engenharia de Software 
+ Análise e Desenvolvimento de Sistemas (ADS)
 AWS Cloud Practitioner  
 Foco em Backend, APIs e Cloud
 
