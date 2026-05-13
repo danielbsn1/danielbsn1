@@ -1,9 +1,13 @@
 #  Olá, eu sou Daniel Batista
 
 Desenvolvedor Full Stack
+
 Estudante de Engenharia de Software 
+
  Análise e Desenvolvimento de Sistemas (ADS)
+ 
 AWS Cloud Practitioner  
+
 Foco em Backend, APIs e Cloud
 
 <img src="https://komarev.com/ghpvc/?username=Danielbsn1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
