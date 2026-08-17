@@ -1,16 +1,28 @@
-#  Olá, eu sou Daniel Batista
+# Olá, eu sou Daniel Batista 
 
-Desenvolvedor Full Stack
+### Desenvolvedor Backend | Full Stack
 
-Estudante de Engenharia de Software 
+Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs e sistemas de gerenciamento**.
 
- Análise e Desenvolvimento de Sistemas (ADS)
- 
-AWS Cloud Practitioner  
+Atualmente, curso **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando minha formação acadêmica com a prática profissional no desenvolvimento de software.
 
-Foco em Backend, APIs e Cloud
+ **Foco:** Backend, APIs, Cloud Computing, DevOps e Arquitetura de Software  
+ **AWS Certified Cloud Practitioner**
 
 <img src="https://komarev.com/ghpvc/?username=Danielbsn1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+---
+
+##  Sobre mim
+
+-  Desenvolvedor Backend e Full Stack
+-  Experiência com **Python, PHP, Laravel, Flask, Django, React e TypeScript**
+-  Desenvolvimento de **APIs REST e aplicações web**
+-  Experiência com **MySQL e PostgreSQL**
+-  Conhecimentos em **AWS, Docker e Linux**
+-  Interesse em **arquitetura de software e sistemas escaláveis**
+-  Cursando **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**
+-  Sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento
 
 ---
 
@@ -19,24 +31,24 @@ Foco em Backend, APIs e Cloud
 ###  Linguagens & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css" />
 </p>
 
 ###  Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-###  DevOps & Cloud
+###  Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
----
 
-#  GitHub Stats
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -61,9 +73,9 @@ Foco em Backend, APIs e Cloud
 #  Contato
 
 <a href="https://linkedin.com/in/danielbatista-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:danielbsneto9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
