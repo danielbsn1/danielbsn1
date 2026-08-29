@@ -31,13 +31,13 @@ Atualmente, curso **Engenharia de Software** e **Análise e Desenvolvimento de S
 ###  Linguagens & Frameworks
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css,nodejs,express,mongodb" />
+ <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css,nodejs,express," />
 </p>
 
 ###  Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ###  Cloud & DevOps
