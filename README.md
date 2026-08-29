@@ -31,7 +31,7 @@ Atualmente, curso **Engenharia de Software** e **Análise e Desenvolvimento de S
 ###  Linguagens & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css,node,js" />
+ <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css,nodejs,express,mongodb" />
 </p>
 
 ###  Banco de Dados
