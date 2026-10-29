@@ -2,11 +2,11 @@
 
 ### Desenvolvedor Backend | Full Stack
 
-Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs, IoT, firmware para ESP32 **.
+Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs, IoT e firmware para ESP32**.
 
-Atualmente, curso  **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando minha formação acadêmica com a prática profissional no desenvolvimento de software.
+Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando minha formação acadêmica com a prática profissional no desenvolvimento de software.
 
- **Foco:** Backend, APIs, IoT, Full-Stack
+ **Foco:** Backend, APIs, IoT e Full Stack
  **AWS Certified Cloud Practitioner**
 
 <img src="https://komarev.com/ghpvc/?username=Danielbsn1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -16,10 +16,11 @@ Atualmente, curso  **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando
 ##  Sobre mim
 
 -  Desenvolvedor Backend e Full Stack
--  Experiência com **Next,Nodejs,React,TypeScript,Python,Laravel,PHP,AWS, Docker e Linux.MySQL,PostgreSQL,SQLite**
--  Desenvolvimento de **APIs REST, aplicações web, IoT, firmware para ESP32,**
--  Interesse em **arquitetura de software, sistemas escaláveis, IoT**
--  Cursando**Análise e Desenvolvimento de Sistemas**
+-  Experiência com **Next.js, Node.js, React, TypeScript, Python, Laravel, PHP, AWS, Docker e Linux**
+-  Bancos de dados: **MySQL, PostgreSQL e SQLite**
+-  Desenvolvimento de **APIs REST, aplicações web, IoT e firmware para ESP32**
+-  Interesse em **arquitetura de software, sistemas escaláveis e IoT**
+-  Cursando **Análise e Desenvolvimento de Sistemas**
 -  Sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento
 
 ---
@@ -29,7 +30,7 @@ Atualmente, curso  **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando
 ### Linguagens & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,laravel,flask,django,react,js,ts,html,css,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,laravel,react,js,ts,html,css,nodejs,express" />
 </p>
 
 ### Banco de Dados
@@ -37,13 +38,14 @@ Atualmente, curso  **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
 </p>
-###  Cloud & DevOps
+
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
-
+---
 
 # 📊 GitHub Stats
 
