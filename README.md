@@ -2,11 +2,11 @@
 
 ### Desenvolvedor Backend | Full Stack
 
-Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs e sistemas de gerenciamento**.
+Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs, IoT, firmware para ESP32 **.
 
-Atualmente, curso **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando minha formação acadêmica com a prática profissional no desenvolvimento de software.
+Atualmente, curso  **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando minha formação acadêmica com a prática profissional no desenvolvimento de software.
 
- **Foco:** Backend, APIs, Cloud Computing, DevOps e Arquitetura de Software  
+ **Foco:** Backend, APIs, IoT, Full-Stack
  **AWS Certified Cloud Practitioner**
 
 <img src="https://komarev.com/ghpvc/?username=Danielbsn1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -16,30 +16,27 @@ Atualmente, curso **Engenharia de Software** e **Análise e Desenvolvimento de S
 ##  Sobre mim
 
 -  Desenvolvedor Backend e Full Stack
--  Experiência com **Python, PHP, Laravel, Flask, Django, React e TypeScript**
--  Desenvolvimento de **APIs REST e aplicações web**
--  Experiência com **MySQL e PostgreSQL**
--  Conhecimentos em **AWS, Docker e Linux**
--  Interesse em **arquitetura de software e sistemas escaláveis**
--  Cursando **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**
+-  Experiência com **Next,Nodejs,React,TypeScript,Python,Laravel,PHP,AWS, Docker e Linux.MySQL,PostgreSQL,SQLite**
+-  Desenvolvimento de **APIs REST, aplicações web, IoT, firmware para ESP32,**
+-  Interesse em **arquitetura de software, sistemas escaláveis, IoT**
+-  Cursando**Análise e Desenvolvimento de Sistemas**
 -  Sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento
 
 ---
 
 #  Tecnologias
 
-###  Linguagens & Frameworks
+### Linguagens & Frameworks
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,django,react,js,ts,html,css,nodejs,express," />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,laravel,flask,django,react,js,ts,html,css,nodejs,express" />
 </p>
 
-###  Banco de Dados
+### Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
 </p>
-
 ###  Cloud & DevOps
 
 <p>
