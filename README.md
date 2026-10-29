@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel Batista 
 
-### Desenvolvedor Backend | Full Stack
+### Desenvolvedor Full Stack
 
 Sou **Desenvolvedor Backend e Full Stack**, com experiência no desenvolvimento de **aplicações web, APIs, IoT e firmware para ESP32**.
 
@@ -16,8 +16,8 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, conciliando 
 ##  Sobre mim
 
 -  Desenvolvedor Backend e Full Stack
--  Experiência com **Next.js, Node.js, React, TypeScript, Python, Laravel, PHP, AWS, Docker e Linux**
--  Bancos de dados: **MySQL, PostgreSQL e SQLite**
+-  Experiência com **Next.js, Node.js, React, TypeScript, Python, Java, C, C++, Laravel, PHP, AWS, Docker e Linux**
+-  Bancos de dados: **MySQL, PostgreSQL, SQLite e Supabase**
 -  Desenvolvimento de **APIs REST, aplicações web, IoT e firmware para ESP32**
 -  Interesse em **arquitetura de software, sistemas escaláveis e IoT**
 -  Cursando **Análise e Desenvolvimento de Sistemas**
